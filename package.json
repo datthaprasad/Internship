@@ -1,0 +1,24 @@
+{
+  "name": "internship_code",
+  "version": "1.0.0",
+  "description": "Nodejs practice course",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "yargs": "^17.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datthaprasad/Internship.git"
+  },
+  "author": "Dattha Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datthaprasad/Internship/issues"
+  },
+  "homepage": "https://github.com/datthaprasad/Internship#readme"
+}
